@@ -9,3 +9,10 @@ git remote add origin https://github.com/ImTafi/chelsea-fc-vn.git
 git push -2u origin main
 echo "# chelsea-fc-vn" >> README.md  laxza ok
 git commit eco vietnam 0101110
+ // Xử lý các sự kiện
+
+                ProcessEvents();
+
+                // Di chuyển Pikachu
+
+
